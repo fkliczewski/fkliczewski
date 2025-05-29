@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on somethings...
 - 📫 How to reach me: just text me :p
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am ending my studies!
+- ⚡ Fun fact: I finished my studies!
 
 <!---
 fkliczewski/fkliczewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
